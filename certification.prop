@@ -1,8 +1,11 @@
-persist.sys.android.gms.list=FINGERPRINT+PRODUCT+DEVICE+SECURITY_PATCH+MODEL+MANUFACTURER+BRAND
-persist.sys.android.gms.BRAND=google
+persist.sys.android.gms.list=FINGERPRINT+PRODUCT+DEVICE+SECURITY_PATCH+MODEL+MANUFACTURER+BRAND+TYPE+TAGS+RELEASE
+pe+rsist.sys.android.gms.BRAND=google
 persist.sys.android.gms.DEVICE=sailfish
 persist.sys.android.gms.FINGERPRINT=google/sailfish/sailfish:8.1.0/OPM1.171019.011/4448085:user/release-keys
 persist.sys.android.gms.MANUFACTURER=Google
 persist.sys.android.gms.MODEL=Pixel
 persist.sys.android.gms.PRODUCT=sailfish
 persist.sys.android.gms.SECURITY_PATCH=2017-12-05
+persist.sys.android.gms.TYPE=user
+persist.sys.android.gms.TAGS=release-keys
+persist.sys.android.gms.RELEASE=8.1.0
